@@ -66,6 +66,7 @@
     height: 35px;
     align-items: center;
     justify-content: center;
+    padding-right: 10px;
     margin-left: -40px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -83,6 +84,7 @@
     height: 35px;
     align-items: center;
     justify-content: center;
+    padding-right: 10px;
     margin-left: -20px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
