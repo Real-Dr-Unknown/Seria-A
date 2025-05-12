@@ -16,7 +16,8 @@ let configData = {
     "timer_text_color": "",
     "timer_background_color": "",
     "sTimeMin": "",
-    "sTimeHour": ""
+    "sTimeHour": "",
+    "fotlink": ""
 }
 
 
